@@ -8,6 +8,7 @@
 # that match the corresponding glob paths. More details on the rules
 # that apply to this configuration file can be found in the documentation
 # at https://github.com/actions/labeler
+# test
 
 stm32:
   - chips/stm*/**/*
